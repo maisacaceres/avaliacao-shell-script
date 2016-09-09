@@ -1,0 +1,11 @@
+# avaliacao-shell-script
+- Salve os dois arquivos em um mesmo diretório.
+- Abre o terminar e navegue até a pasta em que os arquivos foram salvos.
+- Execute o shell script (./avaliacao.sh).
+- Será impresso no terminal os dados:
+  - O usuário com maior "size"
+  - A lista dos usuários ordenada por nome ("username")
+  - A identificação de quantos usuários então nas seguintes faixas do Inbox:
+    - Entre 25000 e 48999 msgs
+    - Entre 49000 e 50000 msgs
+    - Acima de 50001 msgs
